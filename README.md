@@ -3,9 +3,9 @@ Arduino Drain Rain Irrigation Measure weight system
 
 top funnel with NO solenoid valve (wich closes if bottom funnel valve is open)
 
-bottom funnel with NC solenoid valve wich hangs in load cell HX711 for weight measuring
+bottom funnel with NC solenoid valve wich hangs in load cell HX711 for water weight measuring
 
-fluss bottom funnel at end of day or when full, all weighing data saved to comma seperated CSV file on SDcard for graphics daily view
+fluss bottom funnel at end of day or when full, all weighing data saved to comma seperated CSV file on SD-Card for graphics daily view
 
 Arduino with 4x20 i2c LCD and rotary encoder, load cell HX711.
 
