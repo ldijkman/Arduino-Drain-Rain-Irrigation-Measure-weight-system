@@ -32,7 +32,7 @@ Daily total water measured direct vissible on LCD display
 
 
 
-<img src="https://github.com/ldijkman/Arduino-Drain-Rain-Irrigation-Measure-weight-system/blob/main/Arduino-Drain-Rain-Irrigation-Measure-weight-system.jpg">
+<img src="https://github.com/ldijkman/Arduino-Drain-Rain-Irrigation-Measure-weight-system/blob/main/Arduino-Drain-Rain-Irrigation-Measure-weight-system.jpg" width="50%" heigth="50%">
 
 
 
