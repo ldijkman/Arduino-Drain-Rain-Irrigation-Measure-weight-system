@@ -13,7 +13,7 @@ low cost, low power usage, standalone system (possible battery powered for in fi
 
 easy to calibrate loadcell weight settings by rotary encoder menu and 4x20 LCD
 
-everything logged to sd card
+all data logged each second to sd card daily CSV file
 
 possible to monitor data via ethernet or webserver
 
