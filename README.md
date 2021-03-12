@@ -9,7 +9,7 @@ fluss bottom funnel at end of day or when full, all weighing data saved to comma
 
 Arduino with 4x20 i2c LCD and rotary encoder, load cell HX711.
 
-low cost, low power usage standalone system (possible battery powered for in field testing dripplers)
+low cost, low power usage, standalone system (possible battery powered for in field testing dripplers)
 
 easy to calibrate loadcell weight settings by rotary encoder menu and 4x20 LCD
 
