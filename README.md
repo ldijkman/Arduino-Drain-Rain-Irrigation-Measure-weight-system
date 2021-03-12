@@ -26,7 +26,7 @@ monitor or check your irrigation system
 
 Easy to use and maintain
 
-Daily total vissible on LCD display
+Daily total water measured direct vissible on LCD display
 
 ----------------
 
