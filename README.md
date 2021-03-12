@@ -18,3 +18,10 @@ everything logged to sd card
 possible to monitor data via ethernet or webserver
 
 keep track or drain, rain or dripler irrigation
+
+
+---------------
+
+Easy to use and maintain
+
+----------------
