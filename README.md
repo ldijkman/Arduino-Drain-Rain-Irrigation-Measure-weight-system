@@ -17,7 +17,9 @@ all data logged each second to sd card daily CSV file
 
 possible to monitor data via ethernet or webserver
 
-keep track or drain, rain or dripler irrigation
+keep track of drain, rain or dripler irrigation
+
+monitor or check your irrigation system
 
 
 ---------------
