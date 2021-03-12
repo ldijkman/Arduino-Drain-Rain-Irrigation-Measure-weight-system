@@ -11,7 +11,7 @@ Arduino with 4x20 i2c LCD and rotary encoder, load cell HX711.
 
 low cost, low power usage standalone system (possible battery powered for in field testing dripplers)
 
-easy to calibrate loadcell weight settings by rotary encoder menu
+easy to calibrate loadcell weight settings by rotary encoder menu and 4x20 LCD
 
 everything logged to sd card
 
