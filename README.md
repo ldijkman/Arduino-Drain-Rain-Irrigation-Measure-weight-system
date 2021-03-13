@@ -96,7 +96,7 @@ How irrigation water is measured?
 How is irrigation efficiency measured? 
 How do you measure water flow in a ditch? 
 How much water is required for drip irrigation? 
-Ridder ProDrain | Round-the-clock data on your crop's ...ridder.com › Products 
+Ridder ProDrain | 24-7 Round-the-clock data on your crop's ...ridder.com › Products 
 The system measures the weight of the gutter plus the substrate, the weight of the crop and the volume of irrigation and drain water – 24 hours a day. 
 Irrigation Performance Measures: Efficiency and Uniformity 
 irrigation water measurement units 
