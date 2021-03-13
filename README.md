@@ -1,5 +1,7 @@
 # Arduino-Drain-Rain-Irrigation-Measure-weight-system
+--------------------
 low cost, standalone, Arduino Drain Rain Irrigation Measure weight system
+------------------
 
 top funnel with NO solenoid valve (wich closes if bottom funnel valve is open)
 
