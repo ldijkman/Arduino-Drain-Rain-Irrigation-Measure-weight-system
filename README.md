@@ -44,7 +44,7 @@ and a measure can does not save any data to make graphics
 
 charts can be viewed to see when, how much water is really given at the measuring location in the greenhouse
 
-<img src="https://cdn1.louis.de/dynamic/articles/o_resize,w_1800,h_1800,m_limit,c_fff/3e.ae.01.10003201990FR09.JPG" width="30%" heigth="30%">
+<img src="https://github.com/ldijkman/Arduino-Drain-Rain-Irrigation-Measure-weight-system/blob/main/measure_can.jpeg" width="30%" heigth="30%">
 
 ----------------
 
