@@ -1,3 +1,10 @@
+
+
+// waiting for some cheap loadcells with hx711 from aliexpress
+
+
+
+
 // Arduino-Drain-Rain-Irrigation-Measure-weight-system
 // no tipping buckets
 // https://learn.sparkfun.com/tutorials/load-cell-amplifier-hx711-breakout-hookup-guide
