@@ -42,6 +42,8 @@ but a measure can does not flus automatic
 
 and a measure can does not save any data to make graphics
 
+<img src="https://www.google.com/imgres?imgurl=https%3A%2F%2Fchem.libretexts.org%2F%40api%2Fdeki%2Ffiles%2F52869%2F420d533f15e030cc280f0514f8b8addc.jpg%3Frevision%3D1&imgrefurl=https%3A%2F%2Fchem.libretexts.org%2FCourses%2FUniversity_of_California_Davis%2FUCD_Chem_002A%2FUCD_Chem_2A%2FText%2FUnit_0%253A_Primer%2F1.9%253A_Essential_Skills_1&tbnid=3jfrHny4WcERUM&vet=12ahUKEwi9_Z219azvAhUYOuwKHbwFAXAQMygXegUIARDcAQ..i&docid=ZGnQg-m8ngXCUM&w=1285&h=1123&q=measure%20can&ved=2ahUKEwi9_Z219azvAhUYOuwKHbwFAXAQMygXegUIARDcAQ">
+
 ----------------
 
 
