@@ -17,7 +17,7 @@ easy to calibrate loadcell weight settings by rotary encoder menu and 4x20 LCD
 
 weigth setting when to flush (open bottom valve and close top valve)
 
-time how long to flush (time open bottom valve and close top valve) 
+time setting how long to flush (set time to open bottom valve and close top valve) 
 
 settings saved to eeprom
 
