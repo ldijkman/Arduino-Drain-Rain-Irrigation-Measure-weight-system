@@ -21,9 +21,9 @@ time setting how long to flush (set time to open bottom valve and close top valv
 
 settings saved to eeprom
 
-manual valve test from rotary encoder menu
+manual valve test from rotary encoder menu and 4x20 LCD 
 
-all data logged each second to sd card daily CSV file
+all data logged each second to sd card for daily CSV file
 
 possible to monitor data via ethernet or webserver
 
