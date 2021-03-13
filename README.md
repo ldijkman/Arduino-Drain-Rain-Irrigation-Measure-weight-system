@@ -114,6 +114,8 @@ Why, because i think can do better as Hortimax ProDrain pro-drain pro_drain, Wit
 
 Hortimax Pro(beersel)Drain with pump, up level, down level, float switches and oldstyle timers
 
+external links for professional growers
+
 https://ridder.com/ridder-prodrain/
 
 https://ridder.com/wp-content/uploads/2020/09/EN-Brochure-Ridder-ProDrain.pdf
