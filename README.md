@@ -113,3 +113,5 @@ hortimax pro(beersel) drain with pump up level, down level float switches and ol
 
 https://ridder.com/ridder-prodrain/
 
+https://ridder.com/wp-content/uploads/2020/09/EN-Brochure-Ridder-ProDrain.pdf
+
