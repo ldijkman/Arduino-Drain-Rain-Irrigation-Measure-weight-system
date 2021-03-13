@@ -73,10 +73,21 @@ charts can be viewed to see when, how much water is really given at the measurin
 
 --
 
-widely used as a measuring unit for drain measurement.  
+widely used as a measuring unit for drain measurement. 
+
 Drain water is collected in the funnel  
+
 Water Measurement for Agricultural Irrigation and Drainage Systems 
-Effective irrigation water management begins with accurate water measurement. Water measurement is required to determine both total volumes of water and flow rates pumped. Measurement of volumes will verify that the proper amount of water is applied at each irrigation and that amounts permitted by water management districts are not exceeded. Flow rate measurements help to ensure that the irrigation system is operating properly. For example, lower than normal flow rates may indicate the need for pump repair or adjustment, partially closed or obstructed valves or pipelines, or clogged drip emitters. Higher than normal flow rates may indicate broken pipelines, defective flush valves, too many zones operating simultaneously, or eroded sprinkler nozzles. 
+
+Effective irrigation water management begins with accurate water measurement. 
+
+Water measurement is required to determine both total volumes of water and flow rates pumped. 
+
+Measurement of volumes will verify that the proper amount of water is applied at each irrigation 
+
+and that amounts permitted by water management districts are not exceeded. 
+
+Flow rate measurements help to ensure that the irrigation system is operating properly. For example, lower than normal flow rates may indicate the need for pump repair or adjustment, partially closed or obstructed valves or pipelines, or clogged drip emitters. Higher than normal flow rates may indicate broken pipelines, defective flush valves, too many zones operating simultaneously, or eroded sprinkler nozzles. 
 How irrigation water is measured? 
 How is irrigation efficiency measured? 
 How do you measure water flow in a ditch? 
