@@ -27,7 +27,7 @@ possible to monitor data via ethernet or webserver
 
 keep track of drain, rain or dripler irrigation
 
-monitor or check your irrigation system
+monitor or check your drain, rain, irrigation system, irrigation drippers
 
 
 ---------------
