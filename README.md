@@ -36,7 +36,9 @@ Easy to use and maintain
 
 Daily total water measured direct vissible on LCD display
 
-Well you could use a measure can to check drain or water given via drippers
+-------------
+
+Well, you could use a measure can to check drain or water given via drippers
 
 but a measure can does not flush automaticly
 
