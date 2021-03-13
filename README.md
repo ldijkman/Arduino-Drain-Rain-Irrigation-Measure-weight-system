@@ -42,7 +42,7 @@ but a measure can does not flus automatic
 
 and a measure can does not save any data to make graphics
 
-<img src="https://cdn1.louis.de/dynamic/articles/o_resize,w_1800,h_1800,m_limit,c_fff/3e.ae.01.10003201990FR09.JPG">
+<img src="https://cdn1.louis.de/dynamic/articles/o_resize,w_1800,h_1800,m_limit,c_fff/3e.ae.01.10003201990FR09.JPG" width="30%" heigth="30%">
 
 ----------------
 
