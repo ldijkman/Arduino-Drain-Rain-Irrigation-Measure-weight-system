@@ -110,9 +110,9 @@ how to measure field capacity of soil
 
 
 --------------------
-Why, because i think can do better as hortimax prodrain pro-drain pro_drain 
+Why, because i think can do better as Hortimax ProDrain pro-drain pro_drain 
 
-hortimax pro(beersel) drain with pump up level, down level float switches and oldstyle timers
+Hortimax Pro(beersel)Drain with pump, up level, down level, float switches and oldstyle timers
 
 https://ridder.com/ridder-prodrain/
 
