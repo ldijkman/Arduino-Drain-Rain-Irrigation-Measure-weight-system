@@ -75,6 +75,6 @@ which is the closest to the volume of water sprinkler
 irrigation measure crossword clue 
 how to measure field capacity of soil 
 
-Why, because i can do better as hortimax prodrain pro-drain pro_drain 
-hortimax pro(beersel) drain with pump up level down level float switches and oldstyle timers
-some say goats make you swearing, well try maintain hortimax prodrain
+Why, because i think can do better as hortimax prodrain pro-drain pro_drain 
+hortimax pro(beersel) drain with pump up level, down level float switches and oldstyle timers
+
