@@ -90,6 +90,8 @@ reloads chart every 60 seconds  (meta refresh)
 
 pee measurement system howmuch and when ;-) https://github.com/ldijkman/super-graphing-data-logger
 
+maybe online live chart at http://arduino.tk:8888/
+
 <img src="https://github.com/ldijkman/super-graphing-data-logger/blob/master/images/first_chart.jpg" width="50%" heigth="50%">
 
 
@@ -141,6 +143,8 @@ how to measure field capacity of soil
 Why, because i think can do better as Hortimax ProDrain pro-drain pro_drain, With Less. 
 
 Hortimax Pro(beersel)Drain with pump, up level, down level, float switches and oldstyle timers
+
+2 much parts that all fail
 
 external links for professional growers
 
