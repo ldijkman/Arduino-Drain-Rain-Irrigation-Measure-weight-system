@@ -62,7 +62,11 @@ charts can be viewed to see when, how much water is really given at the measurin
 
 
 
+graphic chart test
 
+browser shows comma separated log file csv file from sdcard arduino ethernetshield
+
+<img src="https://github.com/ldijkman/super-graphing-data-logger/blob/master/images/first_chart.jpg" width="50%" heigth="50%">
 
 
 
