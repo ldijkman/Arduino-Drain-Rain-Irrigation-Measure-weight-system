@@ -68,7 +68,7 @@ web browser shows comma separated log file csv file from sdcard arduino ethernet
 
 reloads chart every 60 seconds  (meta refresh)
 
-pee measurement system howmuch and when ;-)
+pee measurement system howmuch and when ;-) https://github.com/ldijkman/super-graphing-data-logger
 
 <img src="https://github.com/ldijkman/super-graphing-data-logger/blob/master/images/first_chart.jpg" width="50%" heigth="50%">
 
