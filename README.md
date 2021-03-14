@@ -64,7 +64,11 @@ charts can be viewed to see when, how much water is really given at the measurin
 
 graphic chart test
 
-browser shows comma separated log file csv file from sdcard arduino ethernetshield
+web browser shows comma separated log file csv file from sdcard arduino ethernetshield
+
+reloads chart every 60 seconds  (meta refresh)
+
+pee measurement system howmuch and when ;-)
 
 <img src="https://github.com/ldijkman/super-graphing-data-logger/blob/master/images/first_chart.jpg" width="50%" heigth="50%">
 
