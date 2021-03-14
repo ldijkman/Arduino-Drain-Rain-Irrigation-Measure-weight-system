@@ -62,7 +62,7 @@ charts can be viewed to see when, how much water is really given at the measurin
 
 
 
-graphic chart test
+graphic chart test (LDR light level sensor on A0)
 
 web browser shows comma separated log file csv file from sdcard arduino ethernetshield
 
