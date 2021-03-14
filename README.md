@@ -41,13 +41,21 @@ Daily total water measured direct vissible on LCD display
 system cost
 
 arduino uno clone----3 euro
+
 ethernet shield------3 euro
+
 20x4 i2c lcd---------4 euro
+
 rotary encoder-------1 euro
+
 10kg loadcell+HX711--3 euro
+
 DS3231 RTC-----------2 euro
+
 NO+NC valves---------6 euro
+
 +++++++++++++++++++++++++++
+
 Total------------+/-22 euro
 
 -------------
