@@ -40,7 +40,7 @@ Daily total water measured direct vissible on LCD display
 
 system cost
 
-arduino uno clone----3 euro
+arduino nano / uno / mega---- 1 to 10 euro (i use a Arduino Mega2560 clone)
 
 ethernet shield------3 euro
 
