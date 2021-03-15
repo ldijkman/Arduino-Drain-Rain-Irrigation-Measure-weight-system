@@ -44,6 +44,16 @@ arduino nano / uno / mega---- 1 to 10 euro (i use a Arduino Mega2560 clone)
 
 ethernet shield------3 euro
 
+------
+
+Maybe better use an wt32-eth01
+
+Mini esp32 with ethernet == much more speed 240mhz versus 16mhz and dual core
+
++/- 8 euro 
+
+-------
+
 20x4 i2c lcd---------4 euro
 
 rotary encoder-------1 euro
